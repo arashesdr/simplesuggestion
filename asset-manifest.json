@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simplesuggestion/static/css/main.a3ca881e.chunk.css",
+    "main.js": "/simplesuggestion/static/js/main.dedbda12.chunk.js",
+    "main.js.map": "/simplesuggestion/static/js/main.dedbda12.chunk.js.map",
+    "runtime-main.js": "/simplesuggestion/static/js/runtime-main.9009266e.js",
+    "runtime-main.js.map": "/simplesuggestion/static/js/runtime-main.9009266e.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/simplesuggestion/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.2a5bef28.chunk.js": "/simplesuggestion/static/js/2.2a5bef28.chunk.js",
+    "static/js/2.2a5bef28.chunk.js.map": "/simplesuggestion/static/js/2.2a5bef28.chunk.js.map",
+    "index.html": "/simplesuggestion/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/simplesuggestion/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.a3ca881e.chunk.css.map": "/simplesuggestion/static/css/main.a3ca881e.chunk.css.map",
+    "static/js/2.2a5bef28.chunk.js.LICENSE.txt": "/simplesuggestion/static/js/2.2a5bef28.chunk.js.LICENSE.txt",
+    "static/media/navbar.css": "/simplesuggestion/static/media/back.24d4884d.jpg",
+    "static/media/search.css": "/simplesuggestion/static/media/loading.d93f39d7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9009266e.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.2a5bef28.chunk.js",
+    "static/css/main.a3ca881e.chunk.css",
+    "static/js/main.dedbda12.chunk.js"
+  ]
+}
